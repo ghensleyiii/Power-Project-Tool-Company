@@ -1,0 +1,26 @@
+body {background-color: rgb(206,202,201);
+  font-family: Arial, sans-serif; font-size: 100%;}
+  
+ h1 {background-color: rgba(65,65,67,255); padding: 20px; color: rgb(243,132,36);
+  font-family: Arial, sans-serif; font-size: 200%; 
+  text-transform: uppercase; text-align: center;}
+  
+ img.medium {float:left; text-align: left; width: 216px; height: 166px; }
+  
+ h2 {color: rgba(65,65,67,255); font-family: Arial, sans-serif; font-size: 175%; 
+  text-transform: capitalize; text-align: center;}
+  
+ p {border: 3px solid rgb(243,132,36); text-align: left;
+  border-radius:3px; padding: 10px;}
+  
+ em {color: rgb(243,132,36);}
+ 
+ b {color: rgba(65,65,67,255);}
+ 
+ ul {list-style: inside circle; border: 3px solid rgba(65,65,67,255); text-align: left;
+  border-radius:3px; padding: 10px;} 
+ 
+ h3 {color: rgb(243,132,36); font-family: Arial, sans-serif; font-size: 150%; 
+  text-transform: capitalize;}
+ 
+ i {color: rgb(243,132,36);}
